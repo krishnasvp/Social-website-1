@@ -354,3 +354,8 @@ nav{
 .user-profile small{
     font-size: 12px;
 }
+
+.post-input-container{
+    padding-left: 55px;
+    padding-top: 20px;
+}
