@@ -479,6 +479,7 @@ footer{
     overflow: hidden;
     top: 100%;
     right: 5%;
+    max-height: 0;
 }
 
 .user-profile a{
