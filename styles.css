@@ -59,6 +59,11 @@ nav{
     width: 18px;
 }
 
+.nav-user-icon{
+    margin-left: 30px;
+    margin-top: 5px;
+}
+
 .search-box input{
     width: 100%;
     background: transparent;
